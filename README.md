@@ -2,6 +2,8 @@
 
 Simple tasks in various languages
 
+![Beavis](https://github.com/Jekahome/codepractice/blob/main/ezgif-4-b462fe416e0f.gif)
+
 ## Summary
 
  - [Getting Started](#getting-started)
