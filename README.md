@@ -1,6 +1,6 @@
 # Simple tasks in different languages
 
-Practice in a playful way in different languages
+Simple tasks in various languages
 
 ## Summary
 
